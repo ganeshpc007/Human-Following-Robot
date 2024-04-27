@@ -14,7 +14,8 @@ The robot calculates the distance between itself and the object using the ultras
 
 ## Video
 
-[Watch DIY Video](https://youtu.be/9ddg0WSPG8g)
-[Watch Code Explination Video](https://youtu.be/96KJebClt7A)
+- [Watch DIY Video](https://youtu.be/9ddg0WSPG8g)
+
+- [Watch Code Explination Video](https://youtu.be/96KJebClt7A)
 
 ![Human Following Robot Picture](https://raw.githubusercontent.com/ganeshpc007/Human-Following-Robot/main/HFR.jpg)
